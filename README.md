@@ -1,16 +1,30 @@
-# Portfolio-Project1
-Here is my freeCodeCamp Portfolio Project
+# Chelsi Wade Portfolio
 
-User Stories:
+## 📖 Project Overview  
+This is a personal portfolio website showcasing my software development projects and professional background. The site includes an “About Me” section, a list of featured projects with links to their GitHub repositories, and contact information.
 
-Your portfolio should have a welcome section with an id of welcome-section
-The welcome section should have an h1 element that contains text
-Your portfolio should have a projects section with an id of projects
-The projects section should contain at least one element with a class of project-tile to hold a project
-The projects section should contain at least one link to a project
-Your portfolio should have a navbar with an id of navbar
-The navbar should contain at least one link that you can click on to navigate to different sections of the page
-Your portfolio should have a link with an id of profile-link, which opens your GitHub or freeCodeCamp profile in a new tab
-Your portfolio should have at least one media query
-The height of the welcome section should be equal to the height of the viewport
-The navbar should always be at the top of the viewport
+## 🎯 Features  
+- Navigation bar for easy page scrolling  
+- Welcome section with photo and professional title  
+- Project tiles with clickable links and descriptions  
+- Contact section with GitHub profile link  
+- Responsive design for desktop and mobile viewing
+
+## 🛠 Technologies Used  
+- HTML5  
+- CSS3 (external stylesheet linked)  
+- Responsive web design principles
+
+## 🚀 How to View  
+1. Clone or download the repository.  
+2. Open `index.html` in any modern browser.
+
+## 📁 Folder Structure  
+- `index.html` — main HTML file  
+- `styles.css` — CSS styles
+
+---
+
+## 🙌 Acknowledgments  
+- FreeCodeCamp Responsive Web Design certification  
+- GitHub for project hosting and portfolio linking
